@@ -1,6 +1,6 @@
-# (2) cogsec on X: "The Shorthand Guide to Everything Claude Code" / X
+# cogsec on X: "The Shorthand Guide to Everything Claude Code" / X
 
-![(2) cogsec on X: "The Shorthand Guide to Everything Claude Code" / X](https://abs.twimg.com/rweb/ssr/default/v2/og/image.png)
+![cogsec on X: "The Shorthand Guide to Everything Claude Code" / X](https://abs.twimg.com/rweb/ssr/default/v2/og/image.png)
 
 ---
 
