@@ -6,8 +6,8 @@
 
 | 文章 | 说明 |
 |------|------|
-| [EverythingClaudeCode Short Guide](EverythingClaudeCode-ShortGuide.md) | Claude Code 完全使用指南（英文） |
-| [EverythingClaudeCode 完全指南](EverythingClaudeCode-ShortGuide-CN.md) | Claude Code 完全使用指南（中文） |
+| [Everything Claude Code Short Guide](EverythingClaudeCode-ShortGuide.md) | Claude Code 完全使用指南（英文） |
+| [Everything Claude Code Short Guide - CN](EverythingClaudeCode-ShortGuide-CN.md) | Claude Code 完全使用指南（中文） |
 
 ## 贡献
 
