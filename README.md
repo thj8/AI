@@ -8,6 +8,7 @@
 |------|------|
 | [Everything Claude Code Short Guide](EverythingClaudeCode-ShortGuide.md) | Claude Code 速记指南（英文） |
 | [Everything Claude Code Short Guide - CN](EverythingClaudeCode-ShortGuide-CN.md) | Claude Code 速记指南（中文） |
+| [CLAUDE.md 该怎么写](how%20to%20write%20claude.md) | CLAUDE.md 编写实战指南 |
 
 ## 贡献
 
